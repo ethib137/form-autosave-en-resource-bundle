@@ -1,3 +1,3 @@
-Bundle-SymbolicName: com.liferay.form.autosave.resource.bundle
+Bundle-SymbolicName: com.liferay.form.autosave.en.resource.bundle
 Bundle-Version: 1.0.0
 -sources: true

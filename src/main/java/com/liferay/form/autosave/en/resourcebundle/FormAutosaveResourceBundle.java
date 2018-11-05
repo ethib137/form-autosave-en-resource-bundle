@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.liferay.form.autosave.resourcebundle;
+package com.liferay.form.autosave.en.resourcebundle;
 
 import com.liferay.portal.kernel.language.UTF8Control;
 
